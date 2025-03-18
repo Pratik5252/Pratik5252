@@ -4,7 +4,7 @@
 
 ## About 🚀
 
-<p>I'm a Frontend Developer </p>
+<p>Software Developer </p>
 
 <!-- <img align="left" height="150" src="https://media.giphy.com/media/KH9tbg1bq7MaHLIYo2/giphy.gif?cid=790b7611vvc5vbho5kpaz5yvl1wtmiqmlvz1goqy3q8mnimw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> -->
 
